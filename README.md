@@ -7,4 +7,5 @@ Team Members:
 - Felipe Santiago Valderrama Ballesteros - fvalderramab
 - Juan Esteban Hunter Malaver - jhunter5
 - Rafael Otero Erazo - rotero08
+- Gabriela Guzman Rivera - gguzmanr
 este cambio si es el bueno
