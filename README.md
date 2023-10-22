@@ -5,3 +5,4 @@ David Fernando Adames Rondon - dfadames
 Gabriela Gallegos Rubio - ggallegosr
 Brandon Styven Forero Briceño - bforerob
 Felipe Santiago Valderrama Ballesteros - fvalderramab
+Juan Esteban Hunter Malaver - jhunter5
